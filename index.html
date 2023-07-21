@@ -1,75 +1,37 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <!--
-      If you are serving your web app in a path other than the root, change the
-      href value below to reflect the base path you are serving from.
+---
+layout: default
+title: Home
+---
 
-      The path provided below has to start and end with a slash "/" in order for
-      it to work correctly.
 
-      For more details:
-      * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
 
-      This is a placeholder for base href that will be replaced by the value of
-      the `--base-href` argument provided to `flutter build`.
-    -->
-    <base href="/">
+    <div class="section-title">
 
-    <meta charset="UTF-8">
-    <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-    <meta content="A new Flutter project." name="description">
+        <h2><span>All Stories</span></h2>
 
-    <!-- iOS meta tags & icons -->
-    <meta content="yes" name="apple-mobile-web-app-capable">
-    <meta content="black" name="apple-mobile-web-app-status-bar-style">
-    <meta content="example" name="apple-mobile-web-app-title">
-    <link href="icons/Icon-192.png" rel="apple-touch-icon">
+    </div>
 
-    <!-- Favicon -->
-    <link href="favicon.png" rel="icon" type="image/png"/>
+    <div class="row listrecent">
 
-    <title>example</title>
-    <link href="manifest.json" rel="manifest">
+        {% for post in paginator.posts %}
 
-    <script>
-        // The value below is injected by flutter build, do not touch.
-        var serviceWorkerVersion = "419125572";
-    </script>
-    <!-- This script adds the flutter initialization JS code -->
-    <script defer src="flutter.js"></script>
-</head>
-<body>
-<script>
-    window.addEventListener('load', function (ev) {
-        // Download main.dart.js
-        _flutter.loader.loadEntrypoint({
-            serviceWorker: {
-                serviceWorkerVersion: serviceWorkerVersion,
-            }
-        }).then(function (engineInitializer) {
-            return engineInitializer.initializeEngine();
-        }).then(function (appRunner) {
-            return appRunner.runApp();
-        });
-    });
-</script>
-<script>
-    var element = document.getElementsByTagName('body')[0];
+        {% include postbox.html %}
 
-    var handleScroll = function () {
-        element.scrollTo(0, 0);  // required when scroll bar is drgged
-    };
+        {% endfor %}
 
-    element.addEventListener('scroll', handleScroll, false);
+    </div>
 
-    var handleEvent = function (e) {
-        e.preventDefault();      // disables scrolling by mouse wheel and touch move
-    };
+</section>
 
-    element.addEventListener('scroll', handleEvent, {passive: false});
-    element.addEventListener('mousewheel', handleEvent, {passive: false});
-    element.addEventListener('touchmove', handleEvent, {passive: false});
-</script>
-</body>
-</html>
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+

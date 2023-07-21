@@ -1,0 +1,72 @@
+# Site
+name: "fabiryan"
+title: "fabiryan"
+description: "IT로 시작하는 스마트라이프"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+google_analytics: ''
+disqus: 'fabiryan-com'
+include: ["_pages"]
+permalink: /:title/
+url: 'https://fabiryan.com'
+
+# Authors
+authors:
+  ryan:
+    name: Ryan Lee
+    display_name: Ryan
+    avatar: 'assets/images/ryan.png'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: ryan@fabiryan.com
+    web: https://fabiryan.com
+    description: "애플과 IT로 삶을 자동화하는 귀차니스트, 사용하지 않는 모든것을 정리해야 직성이 풀리는 미니멀리스트"
+  fabi:
+    name: Fabi Park
+    display_name: Fabi
+    avatar: 'assets/images/fabi.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: fabi@fabiryan.com
+    web: https://fabiryan.com
+    description: "박사, 대학원생, 주부"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    categories: '/categories/:name/'
+  post_dirs: false
+
+# Pagination
+paginate: 15
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-4334179219222037"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
