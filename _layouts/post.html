@@ -7,11 +7,11 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-<div class="container">
+<section>
     <div class="row">
 
-        <div class="col-md-2 pl-0">
-           <!-- {% include share.html %} -->
+        <div class="col-md-1 pl-0">
+            {% include share.html %}
         </div>
 
         <!-- Post -->
@@ -30,7 +30,7 @@ post_class: post-template
                         <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
                         {% endif %}
                     </div>
-                    <div class="col-xs-12 col-md-5 col-lg-7 text-center text-md-left">
+                    <div class="col-xs-12 col-md-5 col-lg-7 text-center text-md-left" style="align-self: center">
                         <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
                         <br>
                         <span class="author-description">{{ author.description }}</span>
@@ -42,12 +42,6 @@ post_class: post-template
                 <h1 class="posttitle">{{ page.title }}</h1>
 
             </div>
-
-            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
-            {% if site.adsense == "enabled" %}
-                {% include adsense-under-header.html %}
-            {% endif %}
-            <!-- End Adsense -->
 
             <!-- Post Featured Image -->
             {% if page.image %}
@@ -136,12 +130,17 @@ post_class: post-template
         <!-- End Post -->
 
     </div>
-</div>
+</section>
 <!-- End Article
 ================================================== -->
 
 <br/>
-<center><a href="https://link.coupang.com/a/4HKax" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/687033?subId=&traceId=V0-301-879dd1202e5c73b2-I687033&w=728&h=90" alt=""></a></center>
+<center>
+    <script src="https://ads-partners.coupang.com/g.js"></script>
+    <script>
+        new PartnersCoupang.G({"id":687070,"template":"carousel","trackingCode":"AF2838808","width":"728","height":"90","tsource":""});
+    </script>
+</center>
 <br/>
 <!-- Begin Comments
 ================================================== -->

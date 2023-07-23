@@ -906,3 +906,20 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #adadad;
+}
+
+th{
+    border:1px solid #adadad;
+    padding: 12px;
+}
+
+td{
+    border:1px solid #adadad;
+    padding: 12px;
+}
