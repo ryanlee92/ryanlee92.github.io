@@ -85,6 +85,7 @@ table {
 
 
 ![](/assets/images/20s-leap-account/금리비교.png)
+
 이미지 출처: [은행연합회 소비자 포털](https://portal.kfb.or.kr/compare/receiving_youth_leap_2.php)
 
 [청년도약 계좌금리 요약 바로가기](https://portal.kfb.or.kr/compare/receiving_youth_leap_2.php)
