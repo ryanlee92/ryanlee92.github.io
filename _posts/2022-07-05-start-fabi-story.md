@@ -2,7 +2,7 @@
 layout: post
 title:  "Fabi's story"
 author: fabi
-categories: ["IT"]
+categories: ["home"]
 description: ""
 featured: false
 hidden: false
