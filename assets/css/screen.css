@@ -745,6 +745,7 @@ p {
     gap: 8px;
     list-style: none;
     word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 p img {
