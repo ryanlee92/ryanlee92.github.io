@@ -10,6 +10,8 @@ disqus: 'fabiryan'
 include: ["_pages"]
 permalink: /:title/
 url: 'https://fabiryan.com'
+author: fabi
+email: fabi@fabiryan.com
 
 # Authors
 authors:
@@ -34,7 +36,7 @@ authors:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
 
