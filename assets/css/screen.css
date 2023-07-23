@@ -739,6 +739,19 @@ video {
     border-radius: 16px;
 }
 
+p {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    list-style: none;
+}
+
+p img {
+    flex: 1 1 auto;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
 .bottompagination span.navigation {
     display: block;
     font-size: 0.93rem;
