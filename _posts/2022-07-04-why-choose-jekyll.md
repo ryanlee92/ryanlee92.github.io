@@ -2,7 +2,7 @@
 layout: post
 title:  "왜 블로그를 직접 만들었을까?"
 author: ryan
-categories: [ jekyll, blog, nas ]
+categories: [ "IT", "programming"]
 description: "블로그를 직접 만들기까지 고민했던 내용들에 대한 흔적"
 featured: false
 hidden: false

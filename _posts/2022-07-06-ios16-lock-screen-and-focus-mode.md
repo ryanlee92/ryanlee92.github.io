@@ -2,7 +2,7 @@
 layout: post
 title:  "iOS 16: 잠금화면과 집중모드를 통한 아이폰 화면 자동화"
 author: ryan
-categories: [ apple, tech, ios16, focus_mode ]
+categories: [ "IT", "apple" ]
 image: assets/images/ios16-lock-screen-and-focus-mode/cover.JPG
 description: "iOS 16에서 소개된 커스텀 잠금화면과 포커스모드를 이용한 아이폰 화면 자동화"
 featured: false

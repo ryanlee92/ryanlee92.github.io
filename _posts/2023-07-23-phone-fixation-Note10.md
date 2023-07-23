@@ -2,7 +2,7 @@
 layout: post
 title:  "노트10/노트10+ 삼성 공식 서비스센터 액정수리비 (2023년 7월1일부터)"
 author: fabi
-categories: [갤럭시,노트10,액정수리]
+categories: ["IT"]
 description: "2023년 7월1일부터 공식 서비스센터의 수리비가 변동되어 노트10/노트10+ 액정 수리비 정보 공유를 드리려고 합니다!"
 featured: false
 hidden: false

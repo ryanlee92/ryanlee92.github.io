@@ -2,7 +2,7 @@
 layout: post
 title:  "[대전 노은동 맛집] 권인순 갈비김치찌개"
 author: fabi
-categories: [ restaurant, recommendation, kimchi, korean soul food, 노은동 맛집, 맛집]
+categories: [ "restaurant"]
 image: assets/images/noeun-kimchi/cut-kimchi.png
 description: "대전 시민의 찐맛집, 김치찌개 안좋아하는 한국인이 있나, 깔끔한 깊은 맛"
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "애플 원 프리미어: 구독을 결정한 이유"
 author: ryan
-categories: [ apple, tech, apple_one ]
+categories: [ "IT", "apple" ]
 image: assets/images/apple-one-premier/cover.PNG
 description: "애플 원 프리미어 사용기. 애플 뮤직, 애플 TV, 애플 뉴스, 애플 아케이드, 애플 피트니스+, 그리고 아이클라우드+"
 featured: false
