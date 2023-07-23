@@ -360,6 +360,7 @@ blockquote {
     display: block;
     margin-bottom: 1.5rem;
     width: 100%;
+    border-radius: 16px;
 }
 
 .share {
@@ -730,6 +731,12 @@ h6 {
 
 img {
     max-width: 100%;
+    border-radius: 16px;
+}
+
+video {
+    max-width: 100%;
+    border-radius: 16px;
 }
 
 .bottompagination span.navigation {
