@@ -941,6 +941,7 @@ table{
 th{
     border:1px solid #adadad;
     padding: 12px;
+    word-wrap: break-word;
 }
 
 td{
