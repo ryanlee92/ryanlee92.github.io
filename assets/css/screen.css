@@ -197,6 +197,7 @@ section.recent-posts {
 .post-top-meta .author-thumb {
     width: 72px;
     aspect-ratio: 1 !important;
+    margin-right: 0px;
 }
 
 .post-top-meta.authorpage .author-thumb {
