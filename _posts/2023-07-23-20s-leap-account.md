@@ -34,7 +34,8 @@ hidden: false
 # 청년도약계좌 정부기여금 지급구조 
 정부기여금은 소득과 지급액에 따라 달라집니다.
 ![](/assets/images/20s-leap-account/정부기여금.png)
-*</br>이미지 출처 (금융위원회 별첨): [금융위원회 청년도약계좌 자료 바로가기](http://www.fsc.go.kr:8300/getPdf/pMbimsKCaue)*
+
+이미지 출처 (금융위원회 별첨): [금융위원회 청년도약계좌 자료 바로가기](http://www.fsc.go.kr:8300/getPdf/pMbimsKCaue)
 
 # 취급 은행 및 신청 기간
 총 11개 은행에서 운영을 개시할 예정입니다. 
@@ -79,7 +80,8 @@ hidden: false
 
 
 ![](/assets/images/20s-leap-account/금리비교.png)
-*</br>이미지 출처 (은행연합회 소비자 포털): https://portal.kfb.or.kr/compare/receiving_youth_leap_2.php*
+
+이미지 출처 (은행연합회 소비자 포털): https://portal.kfb.or.kr/compare/receiving_youth_leap_2.php
 
 [청년도약 계좌금리 요약 바로가기](https://portal.kfb.or.kr/compare/receiving_youth_leap_2.php)
 
