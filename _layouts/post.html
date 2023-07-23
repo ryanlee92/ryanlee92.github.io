@@ -10,27 +10,23 @@ post_class: post-template
 <section>
     <div class="row">
 
-        <div class="col-md-1 pl-0">
-            {% include share.html %}
-        </div>
-
         <!-- Post -->
         {% assign author = site.authors[page.author] %}
 
-        <div class="col-md-9 flex-first flex-md-unordered">
+        <div class="col-md-12 flex-first flex-md-unordered">
             <div class="mainheading">
 
                 <!-- Author Box -->
                 {% if page.author %}
                 <div class="row post-top-meta">
-                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                    <div class="col-xs-12 col-md-2 col-lg-1 text-center text-md-left mb-4 mb-md-0" >
                         {% if author.avatar %}
                         <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
                         {% else %}
                         <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
                         {% endif %}
                     </div>
-                    <div class="col-xs-12 col-md-5 col-lg-7 text-center text-md-left" style="align-self: center">
+                    <div class="col-xs-12 col-md-5 col-lg-7 text-center text-md-left">
                         <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
                         <br>
                         <span class="author-description">{{ author.description }}</span>

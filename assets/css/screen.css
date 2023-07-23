@@ -185,9 +185,8 @@ section.recent-posts {
 
 .author-thumb {
     width: 40px;
-    height: 40px;
-    margin-right: 13px;
     border-radius: 100%;
+    aspect-ratio: 1 !important;
 }
 
 .post-top-meta {
@@ -196,7 +195,7 @@ section.recent-posts {
 
 .post-top-meta .author-thumb {
     width: 72px;
-    height: 72px;
+    aspect-ratio: 1 !important;
 }
 
 .post-top-meta.authorpage .author-thumb {
