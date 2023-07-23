@@ -931,6 +931,7 @@ iframe {
 }
 
 table{
+    table-layout: fixed;
     width: 100%;
     border-collapse: collapse;
     border-spacing: 0;
@@ -945,4 +946,5 @@ th{
 td{
     border:1px solid #adadad;
     padding: 12px;
+    word-wrap: break-word;
 }
