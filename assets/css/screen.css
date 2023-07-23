@@ -750,6 +750,7 @@ p img {
     flex: 1 1 auto;
     object-fit: cover;
     vertical-align: middle;
+    /*max-height: 300px;*/
 }
 
 .bottompagination span.navigation {
