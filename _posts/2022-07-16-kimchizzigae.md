@@ -36,7 +36,7 @@ hidden: false
 기본 세팅이지만 전혀 부족하지 않다.  
 근접샷 고고!
 
-![](/assets/images/noeun-kimchi/kimchi.png)  
+![](/assets/images/noeun-kimchi/kimchi.png)
 ![](/assets/images/noeun-kimchi/rice.png)
 
 숭늉끓이는 거 절대 잊지 않죠..  
