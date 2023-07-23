@@ -14,7 +14,7 @@ hidden: false
 ### 이번 포스트에서 <u>**가입대상 및 요건 • 취급은행 • 최종금리**</u> 정보를 공유드리겠습니다.
 <br/>
 
-![](./assets/images/20s-leap-account/thumbnail.png)
+![](/assets/images/20s-leap-account/thumbnail.png)
 # 청년도약계좌란
 청년의 중장기 자산형성을 지원합니다.
 - 매월 70만원 한도 내 자유롭게 납입
@@ -35,7 +35,7 @@ hidden: false
 
 # 청년도약계좌 정부기여금 지급구조 
 정부기여금은 소득과 지급액에 따라 달라집니다.
-![](./assets/images/20s-leap-account/정부기여금.png)
+![](/assets/images/20s-leap-account/정부기여금.png)
 이미지 출처 (금융위원회 별첨): [금융위원회 청년도약계좌 자료 바로가기](http://www.fsc.go.kr:8300/getPdf/pMbimsKCaue)
 
 # 취급 은행 및 신청 기간
@@ -80,7 +80,7 @@ hidden: false
 해당 사이트는 취급은행별 최종 기본금리(3년간 적용되는 고정금리), 저소득층 우대금리, 취급은행별 우대금리, 적금담보부대출 가산금리를 화깅ㄴ할 수 있습니다.
 
 
-![](./assets/images/20s-leap-account/금리비교.png)
+![](/assets/images/20s-leap-account/금리비교.png)
 이미지 출처 (은행연합회 소비자 포털): https://portal.kfb.or.kr/compare/receiving_youth_leap_2.php
 
 [청년도약 계좌금리 요약 바로가기](https://portal.kfb.or.kr/compare/receiving_youth_leap_2.php)
@@ -89,5 +89,3 @@ hidden: false
 
 모든 자료는 금융위원회를 참고하였습니다.\
 자료 출처: [금융위원회 청년도약계좌](https://www.fsc.go.kr/no010101/80198)
-
-![](/assets/images/noeun-kimchi/rice-bowl.png)
