@@ -739,7 +739,7 @@ video {
     border-radius: 16px;
 }
 
-p {
+p:has(img) {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
