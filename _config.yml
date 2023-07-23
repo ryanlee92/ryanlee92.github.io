@@ -9,7 +9,7 @@ google_analytics: ''
 disqus: 'fabiryan-com'
 include: ["_pages"]
 permalink: /:title/
-url: 'https://fabiryan.com'
+url: 'https://ryanlee92.github.io'
 
 # Authors
 authors:
