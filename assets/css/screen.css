@@ -744,6 +744,7 @@ p {
     flex-wrap: wrap;
     gap: 8px;
     list-style: none;
+    word-wrap: break-word;
 }
 
 p img {
