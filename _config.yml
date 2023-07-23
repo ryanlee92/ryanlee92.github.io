@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: ''
-disqus: 'fabiryan-com'
+disqus: 'fabiryan'
 include: ["_pages"]
 permalink: /:title/
 url: 'https://ryanlee92.github.io'
