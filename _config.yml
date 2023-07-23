@@ -10,6 +10,8 @@ disqus: 'fabiryan'
 include: ["_pages"]
 permalink: /:title/
 url: 'https://fabiryan.com'
+author: fabi
+email: fabi@fabiryan.com
 
 # Authors
 authors:
