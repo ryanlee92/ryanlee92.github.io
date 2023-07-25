@@ -77,10 +77,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarMediumish">
-
-            
             <ul class="navbar-nav ml-auto">
-
                 {% assign categories_list = site.categories %}
                 {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
@@ -99,10 +96,7 @@
                 {% assign categories_list = nil %}
 
                 {% include search-lunr.html %}
-
             </ul>
-
-
     </div>
 
     </div>
