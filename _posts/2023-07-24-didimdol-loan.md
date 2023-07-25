@@ -2,7 +2,7 @@
 layout: post
 title:  "주택담보대출: 디딤돌 대출 요건 정보"
 author: fabi
-categories: ["finance"]
+categories: ["금융"]
 image: assets/images/didimdol-loan/thumbnail.png
 description: "금리 1.2~2.7%인 디딤돌 매매 대출의 정보를 공유드립니다"
 featured: false
@@ -72,3 +72,4 @@ NICE신용평가정보(주)의 CB점수가 350점 이상인 경우에만 취급 
 
 자세한 사항은 [한국주택금융공사](https://www.hf.go.kr/ko/sub01/sub01_02_01.do) 페이지에서 상세히 안내를 받으실 수 있습니다.
 
+모든 자료는 한국주택금융공사를 참고했습니다.

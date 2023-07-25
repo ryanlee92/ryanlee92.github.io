@@ -2,7 +2,7 @@
 layout: post
 title:  "[신혼부부전용 전세자금 대출 2탄] 대출연장 관련"
 author: fabi
-categories: ["finance"]
+categories: ["금융"]
 image: assets/images/marriage-loan/thumbnail.png
 description: "금리 1.2~2.1%인 신혼부부전용 전세자금 대출 연장 시 필요한 정보를 공유드립니다"
 featured: false

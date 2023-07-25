@@ -2,7 +2,7 @@
 layout: post
 title:  "프리랜서 소득 심사 방법 - 청약 당첨 시"
 author: fabi
-categories: ["finance"]
+categories: ["금융"]
 image: assets/images/freelancer-income/thumbnail.png
 description: "너무나도 헷갈리는 프리랜서 소득 심사 방법을 공유드립니다."
 featured: false

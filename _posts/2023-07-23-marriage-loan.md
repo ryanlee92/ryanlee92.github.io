@@ -2,7 +2,7 @@
 layout: post
 title:  "[신혼부부전용 전세자금 대출 1탄] 가입대상, 금리, 취급은행 정리"
 author: fabi
-categories: ["finance"]
+categories: ["금융"]
 image: assets/images/marriage-loan/thumbnail.png
 description: "금리 1.2~2.1%인 신혼부부전용 전세자금 대출의 가입 대상, 금리, 취급은행 정보를 공유드립니다"
 hidden: false

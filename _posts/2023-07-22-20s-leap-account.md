@@ -2,7 +2,7 @@
 layout: post
 title:  "[청년도약계좌]가입대상, 취급은행, 최종금리 은행별 비교 및 혜택 정리"
 author: fabi
-categories: ["finance"]
+categories: ["금융"]
 image: assets/images/20s-leap-account/thumbnail.png
 description: "23년 6월 15일부터 개시된 청년도약계좌 가입대상 및 요건, 취급은행, 최종금리 정보 공유드립니다."
 featured: false

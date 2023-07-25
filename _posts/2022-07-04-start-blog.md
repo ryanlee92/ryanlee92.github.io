@@ -2,7 +2,7 @@
 layout: post
 title:  "블로그를 시작하며.."
 author: ryan
-categories: [ "home" ]
+categories: [ "홈" ]
 description: "블로그를 시작하게 된 계기, 블로그를 통해 무엇을 하고 싶은지에 대한 생각들"
 featured: false
 hidden: false

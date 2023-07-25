@@ -2,7 +2,7 @@
 layout: post
 title:  "주택담보대출: 특례보금자리론 대출 요건 정보"
 author: fabi
-categories: ["finance"]
+categories: ["금융"]
 image: assets/images/special-house-loan/thumbnail.png
 description: "금리 3.25~4.55%인 소득제한이 없는 디딤돌 매매 대출의 정보를 공유드립니다"
 featured: false
