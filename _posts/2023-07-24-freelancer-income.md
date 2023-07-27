@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "프리랜서 소득 심사 방법 - 청약 당첨 시"
+title:  "청약 당첨 시 프리랜서 소득 산정법"
 author: fabi
 categories: ["금융"]
 image: assets/images/freelancer-income/thumbnail.png
