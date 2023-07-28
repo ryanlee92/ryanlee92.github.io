@@ -3,7 +3,7 @@ layout: post
 title:  "신세계 백화점 vip 선정기준, 이용가능 시설, 대전점 시설 위치"
 author: fabi
 categories: ["금융"]
-image: assets/images/shinsegae-vip-/thumbnail.png
+image: assets/images/shinsegae-vip/thumbnail.png
 description: "신세계 백화점 vip 선정기준과 이용가능한 시설, 대전점의 시설 위치 정보를 공유드립니다."
 featured: false
 hidden: false
