@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "대전 신세계 백화점 트로피컬 이스케이프 태풍 취소"
+title:  "대전 신세계 백화점 트로피컬 이스케이프 취소 8월 9일, 10일, 11일"
 author: fabi
 categories: ["장소"]
 image: assets/images/tropical-cancel/thumbnail.png
