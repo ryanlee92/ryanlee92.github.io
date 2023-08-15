@@ -54,19 +54,4 @@ hidden: false
 오늘도 행복한 하루 보내세요, 아디오스
 
 
-<!-- 
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
-featured: true
-hidden: false
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
-toc: true // 목차를 사용할 것인지
---- 
--->
+&#35; 워드프레스 홈페이지 # jekyll # 깃허브 # github # blog

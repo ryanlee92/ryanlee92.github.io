@@ -96,3 +96,4 @@ beforetoc: "Markdown editor is a very powerful thing. In this article I'm going 
 toc: true // 목차를 사용할 것인지
 --- 
 -->
+&#35; ios 16 # 아이패드 스테이지 매니저 # ipad os 16 
