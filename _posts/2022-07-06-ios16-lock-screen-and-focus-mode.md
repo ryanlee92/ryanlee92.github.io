@@ -68,19 +68,4 @@ hidden: false
 ## 마치며
 한번 설정하기가 귀찮긴 하다. 하지만 설정하고 나면 그만한 효용을 분명히 느낄 수 있을 것이라고 생각한다. 잠금화면 커스텀을 계기로 집중모드를 잘 사용하게 된 나로서는 아주 만족하면서 집중모드를 이용하고 있다. (왠지 모르게 뭔가 패턴을 학습하는것 같기도 하고...) 꼭 한 번 정도 시도해서 효용을 느껴볼 만한 기능이라고 생각한다.
 
-<!-- 
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
-featured: true
-hidden: false
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
-toc: true // 목차를 사용할 것인지
---- 
--->
+&#35; ios 16

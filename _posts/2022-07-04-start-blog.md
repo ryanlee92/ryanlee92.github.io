@@ -37,20 +37,4 @@ hidden: false
 이 블로그가 언제까지 쓰여질지, 누구에게 읽힐지는 아무도 모른다. 다만, 블로그에 적힌 내용들이 내가 어떻게 살아갔는지에 대한 중요한 흔적 중 하나가 되길 바란다.
 
 
-
-<!-- 
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
-featured: true
-hidden: false
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
-toc: true // 목차를 사용할 것인지
---- 
--->
+&#35; 워드프레스 홈페이지 # jekyll # 깃허브 # github # blog

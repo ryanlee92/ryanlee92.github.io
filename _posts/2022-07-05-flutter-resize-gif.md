@@ -68,19 +68,4 @@ Future<Uint8List> cropImage(XFile image, BuildContext context, int maxHeight, in
 
 반면 gif라면 플랫폼이 웹일때는 압축이 불가능하고 (ffmpeg 라이브러리가 support하지 않는다.) 앱인 경우에는 `_flutterFFmpeg.execute` 안에 있는 쿼리를 통해 리사이즈 한다. 만약 이를 실패하면 압축을 포기하고 원래 값을 뱉는다.
 
-<!-- 
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
-featured: true
-hidden: false
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
-toc: true // 목차를 사용할 것인지
---- 
--->
+&#35; flutter # 플러터 # 플러터 개발 # 플러터 배우기

@@ -41,3 +41,4 @@ vip의 등급별로 이용할 수 있는 시설이 다르다는 사실!!
 
 ![](../assets/images/shinsegae-vip/4층.jpeg) 
 
+&#35; 신세계 쇼핑 # 신세계 # vip # 신세계 포인트
