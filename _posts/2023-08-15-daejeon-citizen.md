@@ -6,7 +6,7 @@ categories: ["장소"]
 image: assets/images/daejeon-citizen/thumbnail.png
 description: "대전 하나 시티즌 k리그 티켓 구매 방법을 공유드립니다. 오직 하나원큐 어플리케이션에서 구매해야합니다."
 featured: false
-hidden: true
+hidden: false
 --- 
 
 안녕하세요 파비입니다.
