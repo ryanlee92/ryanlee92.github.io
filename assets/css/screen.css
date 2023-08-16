@@ -359,6 +359,7 @@ blockquote {
 
 .featured-image {
     display: block;
+    margin: auto;
     margin-bottom: 1.5rem;
     width: 1000px;
     border-radius: 16px;
