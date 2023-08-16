@@ -753,7 +753,8 @@ p:has(img) {
 }
 
 p img {
-    flex: 1 1 auto;
+    /*flex: 1 1 auto;*/
+    margin: auto;
     object-fit: cover;
     vertical-align: middle;
     /*max-height: 300px;*/
