@@ -12,6 +12,8 @@ permalink: /:title/
 url: 'https://fabiryan.com'
 author: fabi
 email: fabi@fabiryan.com
+lang: ko-KR
+timezone: Asia/Seoul
 
 # Authors
 authors:
